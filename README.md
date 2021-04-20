@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ernesto Tagwerker (he/him) -- Founder & CTO at [OmbuLabs | The Lean Software Boutique](https://www.ombulabs.com?utm_source=github&utm_campaign=etagwerker) and [FastRuby.io | Rails Upgrade Services](https://www.fastruby.io?utm_source=github&utm_campaign=etagwerker)
+
+### Join my team! ❤️
+
+If you love open source as much as I do, you would be a great fit for our team. We love open source, diversity, challenging projects, and cool technologies like Ruby, Rails, and JavaScript. Check out our [job openings at OmbuLabs](https://www.ombulabs.com/jobs?utm_source=github&utm_campaign=etagwerker)
+
 <!--
 **etagwerker/etagwerker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
