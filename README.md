@@ -28,4 +28,4 @@ If you’re exploring AI and want a pragmatic partner who will help you ship the
 
 ### Join my team! ❤️
 
-OmbuLabs.ai is hiring! We are looking for Mid to Senior Rails Engineers interested in joining a fully remote and collaborative team. Learn more at [https://www.ombulabs.com/jobs](https://www.ombulabs.ai/jobs?utm_source=github&utm_campaign=etagwerker) #rails #ruby #remote #react #developer #rubyonrails
+OmbuLabs.ai is hiring! We are looking for Mid to Senior Rails Engineers interested in joining a fully remote and collaborative team. Learn more at [https://www.ombulabs.ai/jobs](https://www.ombulabs.ai/jobs?utm_source=github&utm_campaign=etagwerker) #rails #ruby #remote #react #developer #rubyonrails
